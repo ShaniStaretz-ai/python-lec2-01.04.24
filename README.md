@@ -25,6 +25,7 @@ In the lecture we learnt:
 no spaces in parameters, no capital letters in the beginning of the word. can be with "_"  between (my_address) or with capital letter to separate words (myAddress)
 
 ### recommended:
+var:int=1_000_000 : more readable to know the number. instead 1,000,000
 
 declearing type of the parameter: x:int (means parameter is from int type)- only for the reader, it **doesn't** define the type of the parameter.
 
